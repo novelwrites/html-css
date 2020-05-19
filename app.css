@@ -1,0 +1,34 @@
+<style type="text/css">
+/*   selector {
+     property; value;
+}*/
+
+h2 {
+  color: #990000;
+}
+
+  
+h2 {
+  color: #990000;
+}
+
+li {
+  color: #000000;
+}
+
+p {
+  color: #000000;
+}
+
+header {
+  background: url(http://www.goldencrossranch.com/TEKimages/code.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  background: #DFD8DC;
+}
+
+.sublist {
+  color: #990000}
