@@ -1,0 +1,37 @@
+<style type="text/css">
+/*   selector {
+     property; value;
+}*/
+
+h2 {
+  color: #990000;
+}
+
+  
+h2 {
+  color: #990000;
+}
+
+li {
+  color: #000000;
+}
+
+p {
+  color: #000000;
+}
+
+header {
+  
+  background-color: #990000;
+  background-size: cover;
+}
+
+body {
+  background: #DFD8DC;
+}
+
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
