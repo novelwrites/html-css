@@ -35,3 +35,11 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
+
+h2, h3, h4, nav{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+p {font-family: 'Noto Sans KR', sans-serif;}
+
+
+

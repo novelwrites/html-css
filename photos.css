@@ -1,23 +1,27 @@
 img {
-  width: 30%;
-  float: left;
-  margin: 1.66%
-}
-
-h2 {
-  color: #990000;
-}
-
+    width: 30%;
+    float: left;
+    margin: 1.66%
+  }
   
-h2 {
-  color: #990000;
-}
-
-p {
-  color: #000000;
-}
-
-body {
-  background: #DFD8DC;
-}
-
+  h2 {
+    color: #990000;
+  }
+  
+    
+  h2 {
+    color: #990000;
+  }
+  
+  p {
+    color: #000000;
+  }
+  
+  body {
+    background: #DFD8DC;
+  }
+  
+  h1, h2, h3, h4, nav{
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+  p{font-family: 'Noto Sans KR', sans-serif;}
